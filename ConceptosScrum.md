@@ -13,3 +13,5 @@ reuniones que tienen lugar en las iteraciones o Sprints contemplados dentro de l
 y son una parte importante del progreso de cualquier proyecto.
 
 #Artefactos en Scrum
+Los artefactos son los elementos físicos que se producen como resultado de la aplicación de Scrum. 
+Los tres principales artefactos Scrum son: el Product Backlog, Sprint Backlog y el Incremento.
