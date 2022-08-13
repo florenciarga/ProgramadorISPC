@@ -12,6 +12,8 @@ Telefono bigint,
 Direccion varchar (50)
 ) ;
 
+-- crear tabla: Perro
+
 CREATE TABLE Perro
 (
 ID_Perro int primary key not null auto_increment,
